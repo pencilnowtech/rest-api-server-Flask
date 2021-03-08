@@ -18,7 +18,7 @@ installed in the system.*
 3.  Now, run the API Server from same folder as:
 
     ```shell
-python AlarmApp.py
+    python AlarmApp.py
     ```
 
     It will output, the location where API server is running:
@@ -74,7 +74,7 @@ To run the test cases:
     folder of  project as:
 
     ```shell
-python -m pytest
+    python -m pytest
     ```
 
     All test cases should run successfully.
